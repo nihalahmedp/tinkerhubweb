@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(90, 189, 202);
+    color: blanchedalmond;
+}
+h1{
+    color: aquamarine;
+    font-style: italic;
+    text-align: center;
+}
+.secondDiv{
+    background-color:chocolate ;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+button{
+    padding: 5px 10px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    cursor: pointer;
+    border: 3px dashed black;
+    
+}
+button:hover{
+    background-color: blueviolet;
+    color: darkgoldenrod;
+}
